@@ -23,6 +23,8 @@ let g:colors_name = "idleFingers"
 
 hi Cursor               guibg=#FFFFFF ctermbg=15
 hi CursorIM             guifg=NONE guibg=#ff83fa ctermbg=213
+hi CursorLine cterm=NONE
+
 hi Directory            guifg=#FFC66D ctermfg=221
 hi DiffAdd              guibg=#528b8b ctermbg=66
 hi DiffChange           guibg=#8b636c ctermbg=95
