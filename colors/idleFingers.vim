@@ -58,7 +58,7 @@ hi WildMenu             guifg=#000000 ctermfg=0 guibg=#ffff00 ctermbg=11
 hi Comment              guifg=#BC9458 ctermfg=137
 
 hi Constant             guifg=#6C99BB ctermfg=67 gui=NONE
-    hi String           guifg=#A5C261 ctermfg=143
+    hi String           guifg=#A5C261 ctermfg=149
     hi Character        guifg=#6C99BB ctermfg=67
     hi Number           guifg=#6C99BB ctermfg=67
     hi Boolean          guifg=#6C99BB ctermfg=67
@@ -68,19 +68,19 @@ hi Identifier           guifg=#B7DFF8 ctermfg=153
     hi Function         guifg=#FFF980 ctermfg=228
 
 " hi Statement            guifg=#FFC66D ctermfg=221
-hi Statement            guifg=#FFC66D ctermfg=173
-    hi Conditional      guifg=#CC7833 ctermfg=173
-    hi Repeat           guifg=#CC7833 ctermfg=173
-    hi Label            guifg=#CC7833 ctermfg=173
-    hi Operator         guifg=#CC7833 ctermfg=173
-    hi Keyword          guifg=#CC7833 ctermfg=173
-    hi Exception        guifg=#CC7833 ctermfg=173
+hi Statement            guifg=#FFC66D ctermfg=130
+    hi Conditional      guifg=#CC7833 ctermfg=130
+    hi Repeat           guifg=#CC7833 ctermfg=130
+    hi Label            guifg=#CC7833 ctermfg=130
+    hi Operator         guifg=#CC7833 ctermfg=130
+    hi Keyword          guifg=#CC7833 ctermfg=130
+    hi Exception        guifg=#CC7833 ctermfg=130
 
-hi PreProc              guifg=#CC7833 ctermfg=173
-    hi Include          guifg=#CC7833 ctermfg=173
-    hi Define           guifg=#CC7833 ctermfg=173 gui=NONE
-    hi Macro            guifg=#CC7833 ctermfg=173
-    hi PreCondit        guifg=#CC7833 ctermfg=173
+hi PreProc              guifg=#CC7833 ctermfg=130
+    hi Include          guifg=#CC7833 ctermfg=130
+    hi Define           guifg=#CC7833 ctermfg=130 gui=NONE
+    hi Macro            guifg=#CC7833 ctermfg=130
+    hi PreCondit        guifg=#CC7833 ctermfg=130
 
 hi Type                 guifg=#FFF980 ctermfg=221 gui=NONE
     hi StorageClass     guifg=#FFF980 ctermfg=228
@@ -112,14 +112,14 @@ hi PmenuSel             guibg=#333333 ctermbg=236 guifg=#CCCCCC ctermfg=252
 hi rubyConditionalExpression guifg=#D8D8D8 ctermfg=188
 hi rubyMethod           guifg=#D8D8D8 ctermfg=188
 hi rubyInstanceVariable guifg=#B7DFF8 ctermfg=153
-hi rubyRailsMethod      guifg=#B83426 ctermfg=130
-hi rubyStringDelimiter  guifg=#A5C261 ctermfg=143
-hi rubyControl          guifg=#CC7833 ctermfg=173
+hi rubyRailsMethod      guifg=#B83426 ctermfg=124
+hi rubyStringDelimiter  guifg=#A5C261 ctermfg=149
+hi rubyControl          guifg=#CC7833 ctermfg=130
 hi rubyIdentifier       guifg=#B7DFF8 ctermfg=153
-hi rubyInclude          guifg=#CC7833 ctermfg=173
+hi rubyInclude          guifg=#CC7833 ctermfg=130
 hi rubyMethodDeclaration guifg=#FFF980 ctermfg=221
 hi rubyClassDeclaration guifg=#FFF980 ctermfg=221
-hi rubyClass            guifg=#CC7833 ctermfg=173
+hi rubyClass            guifg=#CC7833 ctermfg=130
 hi rubyFunction         guifg=#FFF980 ctermfg=221
 hi rubySymbol           guifg=#6C99BB ctermfg=67
 " hi rubyOperator         ctermfg=NONE
