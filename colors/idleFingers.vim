@@ -65,7 +65,7 @@ hi Constant             guifg=#6C99BB ctermfg=67 gui=NONE
     hi Float            guifg=#6C99BB ctermfg=67
 
 hi Identifier           guifg=#B7DFF8 ctermfg=153
-    hi Function         guifg=#FFF980 ctermfg=228
+    hi Function         guifg=#FFF980 ctermfg=221
 
 " hi Statement            guifg=#FFC66D ctermfg=221
 hi Statement            guifg=#FFC66D ctermfg=130
@@ -83,8 +83,8 @@ hi PreProc              guifg=#CC7833 ctermfg=130
     hi PreCondit        guifg=#CC7833 ctermfg=130
 
 hi Type                 guifg=#FFF980 ctermfg=221 gui=NONE
-    hi StorageClass     guifg=#FFF980 ctermfg=228
-    hi Structure        guifg=#FFF980 ctermfg=228
+    hi StorageClass     guifg=#FFF980 ctermfg=221
+    hi Structure        guifg=#FFF980 ctermfg=221
 
 hi Special              guifg=#ff6347 ctermfg=223
     " Underline Character
@@ -192,7 +192,7 @@ hi link javaScript Normal
 hi link javaScriptStatement Keyword
 hi link javaScriptFunction Keyword
 
-hi coffeeObjAssign guifg=#FFF980 ctermfg=228
+hi coffeeObjAssign guifg=#FFF980 ctermfg=221
 " Keep parens and special ops normal
 hi link coffeeParen Normal
 hi link coffeeSpecialOp Normal
