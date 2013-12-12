@@ -86,7 +86,7 @@ hi Type                 guifg=#FFF980 ctermfg=221 gui=NONE
     hi StorageClass     guifg=#FFF980 ctermfg=228
     hi Structure        guifg=#FFF980 ctermfg=228
 
-hi Special              guifg=#ff6347 ctermfg=203
+hi Special              guifg=#ff6347 ctermfg=223
     " Underline Character
     hi SpecialChar      guifg=#7fffd4 ctermfg=122
     hi Tag              guifg=#ff6347 ctermfg=203
