@@ -35,7 +35,7 @@ hi VertSplit            guifg=#323232 ctermfg=236 guibg=#f0e68c ctermbg=222
 hi Folded               guifg=#999999 ctermfg=246 guibg=#444444 ctermbg=238
 hi FoldColumn           guifg=#dadada guibg=#666666 ctermfg=253 ctermbg=242
 hi SignColumn           guifg=#bdb76b ctermfg=143 guibg=#20b2aa ctermbg=37
-hi IncSearch            guifg=#000000 ctermfg=0 guibg=#D8D8D8 ctermbg=188
+hi IncSearch            guifg=#000000 ctermfg=229 guibg=#D8D8D8 ctermbg=0
 hi LineNr               guifg=#888888 ctermfg=102
 hi MatchParen           guifg=#FFFFFF ctermfg=15 guibg=#666666 ctermbg=241 gui=bold
 hi ModeMsg              gui=NONE
