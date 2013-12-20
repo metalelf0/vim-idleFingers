@@ -37,7 +37,7 @@ hi FoldColumn           guifg=#dadada guibg=#666666 ctermfg=253 ctermbg=242
 hi SignColumn           guifg=#bdb76b ctermfg=143 guibg=#20b2aa ctermbg=37
 hi IncSearch            guifg=#000000 ctermfg=229 guibg=#D8D8D8 ctermbg=0
 hi LineNr               guifg=#888888 ctermfg=102
-hi MatchParen           guifg=#FFFFFF ctermfg=15 guibg=#666666 ctermbg=241 gui=bold
+hi MatchParen           guifg=#FFFFFF ctermfg=33 guibg=#666666 ctermbg=255 gui=bold
 hi ModeMsg              gui=NONE
 hi MoreMsg              guifg=#CC7833 ctermfg=173
 hi NonText              guifg=#D8D8D8 ctermfg=188
