@@ -45,7 +45,7 @@ hi Normal               guibg=#282828 ctermbg=235 guifg=#D8D8D8 ctermfg=188
 hi Question             guifg=#ff6347 ctermfg=203
 hi Search               guifg=#000000 ctermfg=0 guibg=#ffd700 ctermbg=220
 hi SpecialKey           guifg=#6C99BB ctermfg=67
-hi StatusLine           guifg=#666666 ctermfg=68 guibg=#d8d8d8 ctermbg=0
+hi StatusLine           guifg=#666666 ctermfg=67 guibg=#d8d8d8 ctermbg=0
 hi StatusLineNC         guifg=#b8b8b8 ctermfg=237 guibg=#444444 ctermbg=246
 hi Title                guifg=#ff6347 ctermfg=203
 hi Visual               guibg=#666666 ctermbg=241
